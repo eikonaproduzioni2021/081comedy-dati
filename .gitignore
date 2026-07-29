@@ -1,0 +1,10 @@
+# Difesa in profondità: qui dentro deve stare SOLO il file dei numeri pubblici.
+# Qualunque cosa somigli a una credenziale è esclusa a prescindere.
+.env
+*.env
+*.token
+*.key
+*.pem
+credenziali*
+segreti*
+.DS_Store
