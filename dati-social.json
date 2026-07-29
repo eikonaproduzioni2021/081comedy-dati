@@ -2,13 +2,13 @@
   "aggiornato_il": "2026-07-29",
   "_avvertenza": "Generato da genera_dati_sito.py. Non modificare a mano: al prossimo giro le modifiche vengono sovrascritte.",
   "_regola": "solo dati misurati via API. Nessuna stima, nessun valore deduplicato.",
-  "community": 280580,
+  "community": 281014,
   "community_label": "281K",
   "canali": {
     "tiktok": 105207,
-    "instagram": 70223,
-    "youtube": 68500,
-    "facebook": 36650
+    "instagram": 70433,
+    "youtube": 68600,
+    "facebook": 36774
   },
   "tiktok_aggiornato_il": "2026-07-28",
   "visualizzazioni_mese": 44297133,
