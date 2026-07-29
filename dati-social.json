@@ -2,11 +2,11 @@
   "aggiornato_il": "2026-07-29",
   "_avvertenza": "Generato da genera_dati_sito.py. Non modificare a mano: al prossimo giro le modifiche vengono sovrascritte.",
   "_regola": "solo dati misurati via API. Nessuna stima, nessun valore deduplicato.",
-  "community": 281026,
+  "community": 281031,
   "community_label": "281K",
   "canali": {
     "tiktok": 105207,
-    "instagram": 70441,
+    "instagram": 70446,
     "youtube": 68600,
     "facebook": 36778
   },
@@ -21,5 +21,25 @@
   "visualizzazioni_totali": 352063050,
   "visualizzazioni_totali_label": "352M",
   "periodo_riferimento": "30 giugno – 27 luglio 2026",
-  "_nota_periodo": "aggiornati manualmente a ogni ciclo: la finestra a 28 giorni non è ricavabile da script su YouTube e TikTok"
+  "_nota_periodo": "aggiornati manualmente a ogni ciclo: la finestra a 28 giorni non è ricavabile da script su YouTube e TikTok",
+  "case_study": [
+    {
+      "brand": "Masseria del Duca",
+      "settore": "Eventi e cerimonie — matrimoni, comunioni, compleanni",
+      "contenuti": 3,
+      "visualizzazioni": "8,1M",
+      "per_contenuto": "2,7M",
+      "interazioni": "317K",
+      "youtube_id": "glQqwp2shs4"
+    },
+    {
+      "brand": "San Carlo 17",
+      "settore": "Ristorazione — pizzeria",
+      "contenuti": 3,
+      "visualizzazioni": "2,5M",
+      "per_contenuto": "821K",
+      "interazioni": "72K",
+      "youtube_id": "c-PhqlCsQJQ"
+    }
+  ]
 }
