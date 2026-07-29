@@ -2,13 +2,13 @@
   "aggiornato_il": "2026-07-29",
   "_avvertenza": "Generato da genera_dati_sito.py. Non modificare a mano: al prossimo giro le modifiche vengono sovrascritte.",
   "_regola": "solo dati misurati via API. Nessuna stima, nessun valore deduplicato.",
-  "community": 281031,
+  "community": 281053,
   "community_label": "281K",
   "canali": {
     "tiktok": 105207,
-    "instagram": 70446,
+    "instagram": 70457,
     "youtube": 68600,
-    "facebook": 36778
+    "facebook": 36789
   },
   "tiktok_aggiornato_il": "2026-07-28",
   "visualizzazioni_mese": 44297133,
@@ -22,6 +22,263 @@
   "visualizzazioni_totali_label": "352M",
   "periodo_riferimento": "30 giugno – 27 luglio 2026",
   "_nota_periodo": "aggiornati manualmente a ogni ciclo: la finestra a 28 giorni non è ricavabile da script su YouTube e TikTok",
+  "tabelle": {
+    "periodo": {
+      "titolo": "Ultimi 28 giorni",
+      "sottotitolo": "2026-06-30 → 2026-07-27",
+      "colonne": [
+        "TikTok",
+        "YouTube",
+        "Instagram",
+        "Facebook"
+      ],
+      "righe": [
+        {
+          "voce": "Fanbase",
+          "valori": [
+            {
+              "v": "105K",
+              "parziale": false
+            },
+            {
+              "v": "68,5K",
+              "parziale": false
+            },
+            {
+              "v": "70K",
+              "parziale": false
+            },
+            {
+              "v": "36,5K",
+              "parziale": false
+            }
+          ]
+        },
+        {
+          "voce": "Visualizzazioni",
+          "valori": [
+            {
+              "v": "11,3M",
+              "parziale": false
+            },
+            {
+              "v": "18,9M",
+              "parziale": false
+            },
+            {
+              "v": "6,92M",
+              "parziale": false
+            },
+            {
+              "v": "7,18M",
+              "parziale": false
+            }
+          ]
+        },
+        {
+          "voce": "Persone raggiunte",
+          "valori": [
+            {
+              "v": "3,8M",
+              "parziale": false
+            },
+            {
+              "v": null,
+              "parziale": false
+            },
+            {
+              "v": "3,99M",
+              "parziale": false
+            },
+            {
+              "v": "4,97M",
+              "parziale": false
+            }
+          ]
+        },
+        {
+          "voce": "Mi piace",
+          "valori": [
+            {
+              "v": "515K",
+              "parziale": false
+            },
+            {
+              "v": "72,9K",
+              "parziale": true
+            },
+            {
+              "v": "277K",
+              "parziale": false
+            },
+            {
+              "v": "60,5K",
+              "parziale": false
+            }
+          ]
+        },
+        {
+          "voce": "Commenti",
+          "valori": [
+            {
+              "v": "4,3K",
+              "parziale": false
+            },
+            {
+              "v": "847",
+              "parziale": true
+            },
+            {
+              "v": "2,5K",
+              "parziale": false
+            },
+            {
+              "v": "1,5K",
+              "parziale": true
+            }
+          ]
+        },
+        {
+          "voce": "Condivisioni",
+          "valori": [
+            {
+              "v": "35,4K",
+              "parziale": false
+            },
+            {
+              "v": null,
+              "parziale": false
+            },
+            {
+              "v": "22,8K",
+              "parziale": false
+            },
+            {
+              "v": "2,6K",
+              "parziale": true
+            }
+          ]
+        }
+      ]
+    },
+    "lifetime": {
+      "titolo": "Dal lancio del progetto",
+      "sottotitolo": "giugno 2025 → oggi",
+      "colonne": [
+        "YouTube",
+        "Instagram",
+        "TikTok",
+        "Facebook"
+      ],
+      "righe": [
+        {
+          "voce": "Visualizzazioni",
+          "valori": [
+            {
+              "v": "146,5M",
+              "parziale": false
+            },
+            {
+              "v": "80,1M",
+              "parziale": false
+            },
+            {
+              "v": "76,5M",
+              "parziale": false
+            },
+            {
+              "v": "48,9M",
+              "parziale": false
+            }
+          ]
+        },
+        {
+          "voce": "Mi piace",
+          "valori": [
+            {
+              "v": "1,35M",
+              "parziale": false
+            },
+            {
+              "v": "1,87M",
+              "parziale": false
+            },
+            {
+              "v": "3M",
+              "parziale": false
+            },
+            {
+              "v": "489K",
+              "parziale": false
+            }
+          ]
+        },
+        {
+          "voce": "Commenti",
+          "valori": [
+            {
+              "v": "10,6K",
+              "parziale": false
+            },
+            {
+              "v": "25,1K",
+              "parziale": false
+            },
+            {
+              "v": "27,9K",
+              "parziale": false
+            },
+            {
+              "v": "15,8K",
+              "parziale": false
+            }
+          ]
+        },
+        {
+          "voce": "Condivisioni",
+          "valori": [
+            {
+              "v": null,
+              "parziale": false
+            },
+            {
+              "v": "250K",
+              "parziale": false
+            },
+            {
+              "v": "238K",
+              "parziale": false
+            },
+            {
+              "v": "33,9K",
+              "parziale": false
+            }
+          ]
+        },
+        {
+          "voce": "Contenuti",
+          "valori": [
+            {
+              "v": "121",
+              "parziale": false
+            },
+            {
+              "v": "121",
+              "parziale": false
+            },
+            {
+              "v": "121",
+              "parziale": false
+            },
+            {
+              "v": "116",
+              "parziale": false
+            }
+          ]
+        }
+      ]
+    }
+  },
   "case_study": [
     {
       "brand": "Masseria del Duca",
