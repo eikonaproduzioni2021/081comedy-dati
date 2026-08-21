@@ -2,13 +2,13 @@
   "aggiornato_il": "2026-08-21",
   "_avvertenza": "Generato da genera_dati_sito.py. Non modificare a mano: al prossimo giro le modifiche vengono sovrascritte.",
   "_regola": "solo dati misurati via API. Nessuna stima, nessun valore deduplicato.",
-  "community": 302349,
+  "community": 302351,
   "community_label": "302K",
   "canali": {
     "tiktok": 114927,
-    "instagram": 74511,
+    "instagram": 74512,
     "youtube": 74200,
-    "facebook": 38711
+    "facebook": 38712
   },
   "tiktok_aggiornato_il": "2026-08-21",
   "visualizzazioni_mese": 44297133,
@@ -16,7 +16,7 @@
   "persone_raggiunte_mese": 12763799,
   "persone_raggiunte_mese_label": "12,8M",
   "persone_raggiunte_mese_prosa": "12,8 milioni",
-  "community_prosa": "281mila",
+  "community_prosa": "302mila",
   "mesi_contenuti": 14,
   "mesi_contenuti_label": "14 mesi",
   "ore_visione_mese": 100400,
