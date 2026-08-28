@@ -2,20 +2,20 @@
   "aggiornato_il": "2026-08-28",
   "_avvertenza": "Generato da genera_dati_sito.py. Non modificare a mano: al prossimo giro le modifiche vengono sovrascritte.",
   "_regola": "solo dati misurati via API. Nessuna stima, nessun valore deduplicato.",
-  "community": 308323,
+  "community": 308329,
   "community_label": "308K",
   "canali": {
     "tiktok": 117512,
-    "instagram": 75486,
+    "instagram": 75489,
     "youtube": 76000,
-    "facebook": 39325
+    "facebook": 39328
   },
   "tiktok_aggiornato_il": "2026-08-28",
   "visualizzazioni_mese": 42035670,
   "visualizzazioni_mese_label": "42M",
-  "persone_raggiunte_mese": 11778147,
-  "persone_raggiunte_mese_label": "11,8M",
-  "persone_raggiunte_mese_prosa": "11,8 milioni",
+  "persone_raggiunte_mese": 12992495,
+  "persone_raggiunte_mese_label": "13M",
+  "persone_raggiunte_mese_prosa": "13 milioni",
   "community_prosa": "308mila",
   "mesi_contenuti": 14,
   "mesi_contenuti_label": "14 mesi",
@@ -85,7 +85,7 @@
               "parziale": false
             },
             {
-              "v": null,
+              "v": "2,2M",
               "parziale": false
             },
             {
