@@ -43,15 +43,15 @@
               "parziale": false
             },
             {
-              "v": "74,2K",
+              "v": "76K",
               "parziale": false
             },
             {
-              "v": "74,5K",
+              "v": "75,5K",
               "parziale": false
             },
             {
-              "v": "38,7K",
+              "v": "39,3K",
               "parziale": false
             }
           ]
@@ -107,7 +107,7 @@
             },
             {
               "v": "155K",
-              "parziale": true
+              "parziale": false
             },
             {
               "v": "133K",
@@ -128,7 +128,7 @@
             },
             {
               "v": "1,4K",
-              "parziale": true
+              "parziale": false
             },
             {
               "v": "1,7K",
@@ -136,7 +136,7 @@
             },
             {
               "v": "1,1K",
-              "parziale": true
+              "parziale": false
             }
           ]
         },
@@ -157,7 +157,7 @@
             },
             {
               "v": "1,7K",
-              "parziale": true
+              "parziale": false
             }
           ]
         }
