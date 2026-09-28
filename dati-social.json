@@ -6,24 +6,24 @@
   "community_label": "335K",
   "canali": {
     "tiktok": 127880,
-    "instagram": 83814,
+    "instagram": 83815,
     "youtube": 80200,
-    "facebook": 42980
+    "facebook": 42979
   },
   "tiktok_aggiornato_il": "2026-09-28",
-  "visualizzazioni_mese": 40144845,
-  "visualizzazioni_mese_label": "40M",
+  "visualizzazioni_mese": 36363194,
+  "visualizzazioni_mese_label": "36M",
   "persone_raggiunte_mese": 9904137,
   "persone_raggiunte_mese_label": "9,9M",
   "persone_raggiunte_mese_prosa": "9,9 milioni",
   "community_prosa": "334mila",
   "mesi_contenuti": 15,
   "mesi_contenuti_label": "15 mesi",
-  "ore_visione_mese": 77900,
+  "ore_visione_mese": 50200,
   "visualizzazioni_totali": 428455328,
   "visualizzazioni_totali_label": "420M",
-  "periodo_riferimento": "media mensile · luglio, agosto e settembre 2026",
-  "_nota_periodo": "media di luglio, agosto e settembre 2026, tre mesi interamente misurati. Aggiornati a ogni ciclo: le reach di TikTok vanno lette da TikTok Studio, nessuna API le espone.",
+  "periodo_riferimento": "settembre 2026",
+  "_nota_periodo": "ultimo mese misurato (settembre 2026), non la media. Aggiornati a ogni ciclo: le reach di TikTok vanno lette da TikTok Studio, nessuna API le espone.",
   "tabelle": {
     "periodo": {
       "titolo": "Ultimo mese rilevato",
