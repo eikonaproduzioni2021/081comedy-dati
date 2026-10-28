@@ -1,33 +1,33 @@
 {
-  "aggiornato_il": "2026-09-29",
+  "aggiornato_il": "2026-10-28",
   "_avvertenza": "Generato da genera_dati_sito.py. Non modificare a mano: al prossimo giro le modifiche vengono sovrascritte.",
   "_regola": "solo dati misurati via API. Nessuna stima, nessun valore deduplicato.",
-  "community": 335139,
-  "community_label": "335K",
+  "community": 345471,
+  "community_label": "345K",
   "canali": {
-    "tiktok": 127880,
-    "instagram": 83949,
-    "youtube": 80300,
-    "facebook": 43010
+    "tiktok": 131079,
+    "instagram": 86592,
+    "youtube": 83200,
+    "facebook": 44600
   },
-  "tiktok_aggiornato_il": "2026-09-28",
-  "visualizzazioni_mese": 36063194,
-  "visualizzazioni_mese_label": "36M",
-  "persone_raggiunte_mese": 9904137,
-  "persone_raggiunte_mese_label": "10M",
-  "persone_raggiunte_mese_prosa": "10 milioni",
-  "community_prosa": "335mila",
-  "mesi_contenuti": 15,
-  "mesi_contenuti_label": "15 mesi",
-  "ore_visione_mese": 50200,
-  "visualizzazioni_totali": 428155328,
-  "visualizzazioni_totali_label": "420M",
-  "periodo_riferimento": "settembre 2026",
-  "_nota_periodo": "ultimo mese misurato (settembre 2026), non la media. Aggiornati a ogni ciclo: le reach di TikTok vanno lette da TikTok Studio, nessuna API le espone.",
+  "tiktok_aggiornato_il": "2026-10-28",
+  "visualizzazioni_mese": 19934457,
+  "visualizzazioni_mese_label": "19,9M",
+  "persone_raggiunte_mese": 4965547,
+  "persone_raggiunte_mese_label": "4,9M",
+  "persone_raggiunte_mese_prosa": "4,9 milioni",
+  "community_prosa": "345mila",
+  "mesi_contenuti": 16,
+  "mesi_contenuti_label": "16 mesi",
+  "ore_visione_mese": 37600,
+  "visualizzazioni_totali": 448096543,
+  "visualizzazioni_totali_label": "440M",
+  "periodo_riferimento": "ottobre 2026",
+  "_nota_periodo": "ultimo mese misurato (ottobre 2026), non la media. Aggiornati a ogni ciclo: le reach di TikTok vanno lette da TikTok Studio, nessuna API le espone.",
   "tabelle": {
     "periodo": {
       "titolo": "Ultimo mese rilevato",
-      "sottotitolo": "28 agosto 2026 → 28 settembre 2026",
+      "sottotitolo": "28 settembre 2026 → 28 ottobre 2026",
       "colonne": [
         "TikTok",
         "YouTube",
@@ -39,19 +39,19 @@
           "voce": "Fanbase",
           "valori": [
             {
-              "v": "128K",
+              "v": "131K",
               "parziale": false
             },
             {
-              "v": "80,3K",
+              "v": "83,2K",
               "parziale": false
             },
             {
-              "v": "83,9K",
+              "v": "86,6K",
               "parziale": false
             },
             {
-              "v": "43K",
+              "v": "44,6K",
               "parziale": false
             }
           ]
@@ -60,19 +60,19 @@
           "voce": "Visualizzazioni",
           "valori": [
             {
-              "v": "9,9M",
+              "v": "4,3M",
               "parziale": false
             },
             {
-              "v": "10,9M",
+              "v": "8,14M",
               "parziale": false
             },
             {
-              "v": "9,82M",
+              "v": "4,39M",
               "parziale": false
             },
             {
-              "v": "5,41M",
+              "v": "3,1M",
               "parziale": false
             }
           ]
@@ -81,7 +81,7 @@
           "voce": "Persone raggiunte",
           "valori": [
             {
-              "v": "3,2M",
+              "v": "1,5M",
               "parziale": false
             },
             {
@@ -89,11 +89,11 @@
               "parziale": false
             },
             {
-              "v": "3,22M",
+              "v": "1,26M",
               "parziale": false
             },
             {
-              "v": "2,18M",
+              "v": "905K",
               "parziale": false
             }
           ]
@@ -102,19 +102,19 @@
           "voce": "Mi piace",
           "valori": [
             {
-              "v": "488K",
+              "v": "188K",
               "parziale": false
             },
             {
-              "v": "113K",
+              "v": "67,6K",
               "parziale": false
             },
             {
-              "v": "308K",
+              "v": "115K",
               "parziale": false
             },
             {
-              "v": "65,2K",
+              "v": "37,8K",
               "parziale": false
             }
           ]
@@ -123,19 +123,19 @@
           "voce": "Commenti",
           "valori": [
             {
-              "v": "4,3K",
+              "v": "1,7K",
               "parziale": false
             },
             {
-              "v": "1,2K",
+              "v": "760",
               "parziale": false
             },
             {
-              "v": "3K",
+              "v": "1,5K",
               "parziale": false
             },
             {
-              "v": "2,3K",
+              "v": "1K",
               "parziale": false
             }
           ]
@@ -144,7 +144,7 @@
           "voce": "Condivisioni",
           "valori": [
             {
-              "v": "25,3K",
+              "v": "6,9K",
               "parziale": false
             },
             {
@@ -152,11 +152,11 @@
               "parziale": false
             },
             {
-              "v": "33,3K",
+              "v": "7,9K",
               "parziale": false
             },
             {
-              "v": "4,7K",
+              "v": "1,9K",
               "parziale": false
             }
           ]
@@ -177,19 +177,19 @@
           "voce": "Visualizzazioni",
           "valori": [
             {
-              "v": "174,6M",
+              "v": "182,6M",
               "parziale": false
             },
             {
-              "v": "97,1M",
+              "v": "101,6M",
               "parziale": false
             },
             {
-              "v": "96,6M",
+              "v": "100,9M",
               "parziale": false
             },
             {
-              "v": "59,8M",
+              "v": "62,9M",
               "parziale": false
             }
           ]
@@ -198,19 +198,19 @@
           "voce": "Mi piace",
           "valori": [
             {
-              "v": "1,62M",
+              "v": "1,69M",
               "parziale": false
             },
             {
-              "v": "2,31M",
+              "v": "2,43M",
               "parziale": false
             },
             {
-              "v": "3,96M",
+              "v": "4,14M",
               "parziale": false
             },
             {
-              "v": "596K",
+              "v": "634K",
               "parziale": false
             }
           ]
@@ -219,19 +219,19 @@
           "voce": "Commenti",
           "valori": [
             {
-              "v": "13,1K",
+              "v": "13,9K",
               "parziale": false
             },
             {
-              "v": "29,9K",
+              "v": "31,3K",
               "parziale": false
             },
             {
-              "v": "36,4K",
+              "v": "38,1K",
               "parziale": false
             },
             {
-              "v": "19,1K",
+              "v": "20,1K",
               "parziale": false
             }
           ]
@@ -244,15 +244,15 @@
               "parziale": false
             },
             {
-              "v": "296K",
+              "v": "304K",
               "parziale": false
             },
             {
-              "v": "290K",
+              "v": "297K",
               "parziale": false
             },
             {
-              "v": "40,3K",
+              "v": "42,2K",
               "parziale": false
             }
           ]
@@ -261,19 +261,19 @@
           "voce": "Contenuti",
           "valori": [
             {
-              "v": "137",
+              "v": "146",
               "parziale": false
             },
             {
-              "v": "137",
+              "v": "146",
               "parziale": false
             },
             {
-              "v": "137",
+              "v": "146",
               "parziale": false
             },
             {
-              "v": "132",
+              "v": "141",
               "parziale": false
             }
           ]
